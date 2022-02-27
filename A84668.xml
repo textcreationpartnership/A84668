@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the Right Honourable Captaine General Cromwel, Major General Harrison, and the rest of that noble race of the souldiery, who are and have been instrumental in seeking the relief of captives, the free-born subjects of this nation. A few humble proposals of several wel-affected and faithful friends.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84668</idno>
+            <idno type="STC">Wing F1437</idno>
+            <idno type="STC">Thomason E687_8</idno>
+            <idno type="STC">ESTC R206883</idno>
+            <idno type="EEBO-CITATION">99865978</idno>
+            <idno type="PROQUEST">99865978</idno>
+            <idno type="VID">166436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166436)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E687[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the Right Honourable Captaine General Cromwel, Major General Harrison, and the rest of that noble race of the souldiery, who are and have been instrumental in seeking the relief of captives, the free-born subjects of this nation. A few humble proposals of several wel-affected and faithful friends.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "ffebr. 18. 1652.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harrison, Thomas, 1606-1660 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Prisoners of war --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166436:1" rendition="simple:additions"/>
+            <head>For the Right Honourable</head>
+            <head>Captaine General <hi>CROMWEL,</hi> Major General <hi>HARRISON,</hi> and the reſt of that Noble Race of the Souldiery, who are and have been inſtrumental in ſeeking the relief of Captives, the Free-born ſubjects of this Nation.</head>
+            <head type="sub">A few humble Propoſals of ſeveral wel-affected and faithful friends.</head>
+            <p n="1">1. WHether God doth own and coun<g ref="char:EOLhyphen"/>tenance the uſe of Authority, or the abuſe thereof; and which of theſe two the people in conſcience ought to yield obedience unto, judge ye.</p>
+            <p n="2">2. Whether all thoſe Laws which were
+<pb n="2" facs="tcp:166436:2"/> made by the <hi>Norman</hi> Tyrant, ought to ſtand in force now, in the time of pretended free<g ref="char:EOLhyphen"/>dome, judge ye.</p>
+            <p n="3">3. Whether the Parliaments Acts for Tythes, with treble Dammages, and Impri<g ref="char:EOLhyphen"/>ſonment without Baile or Main-prize, be not more oppreſſion tenfold then all the Biſhops Canons, judge ye.</p>
+            <p n="4">4. Whether it be not moſt ſutable to a Commonwealths freedome, every yeer to Ordain Judges and Juſtices, as Conſtables, judge ye.</p>
+            <p n="5">5. Whether the Civil ſword in things of a Divine Nature, doth not make hypocrites threefold the ſervants of Satan, and cur<g ref="char:EOLhyphen"/>ſed of God for their lame and blinde ſer<g ref="char:EOLhyphen"/>vice, judge ye.</p>
+            <p n="6">6. VVhether men do not make their luſts to be their wills, and their wills to be a law, judge ye.</p>
+            <p n="7">7. VVether all the oppreſſions upon the poor and truly-conſcientious people of this
+<pb n="3" facs="tcp:166436:2"/> Land, will be taken off without fire and ven<g ref="char:EOLhyphen"/>geance from above, judge ye.</p>
+            <p n="8">8. VVhether all the Remonſtrances and hundreds of Petitions preſented to the Su<g ref="char:EOLhyphen"/>pream Authority in this Nation, by the op<g ref="char:EOLhyphen"/>preſſed, be not now buried in Oblivion, as an old Almanack out of date, judge ye.</p>
+            <p n="9">9. Whether all the Prieſts both of the old and new ſtamp in this Land, be not the ſame as when they were under the Papiſtical and Prelatical government, judge ye.</p>
+            <p n="10">10. Whether all receivers of Tythes ought not now to offer burnt-ſacrifices of Sheep and Oxen, ſeeing it is the way God hath appointed for ſuch Miniſters, and no other Officers, judge ye.</p>
+            <p n="11">11. Whether thoſe Prieſts be not more for the gaine of the fleece, then the comfort of the people or flock, judge ye.</p>
+            <p n="12">12. Whether the Maſs, with all the Mat<g ref="char:EOLhyphen"/>tins, and all other Popiſh Reliques, ought not to be in uſe in this Land, ſince the Tythes
+<pb n="4" facs="tcp:166436:3"/> of our Nation were given for the wages of ſuch a Service, to them that miniſtred there<g ref="char:EOLhyphen"/>in, judge ye.</p>
+            <p n="13">13. Whether it be not a Caſe of juſtice and equity, that all people ought to be left free in themſelves, how much or how little a portion they give to their Miniſter, foraſ<g ref="char:EOLhyphen"/>much as the ſaid Miniſter is left free to him<g ref="char:EOLhyphen"/>ſelf, how much or how little a portion of the word of God he preacheth to the people, judge ye.</p>
+            <p n="14">14. Whether the hand of God, or the arme of fleſh, muſt put an end to the differen<g ref="char:EOLhyphen"/>ces betwixt <hi>Holland</hi> and <hi>England,</hi> ſince that God is no reſpecter of perſons; for of what vice <hi>Holland</hi> is guilty, is not <hi>England</hi> much more? and for what vertue <hi>England</hi> may be praiſed, may not <hi>Holland</hi> much more? wit<g ref="char:EOLhyphen"/>neſs their care for all ſorts of poor, and charity in relieving <hi>Englands</hi> Exiles, judge ye.</p>
+            <p n="15">15. Whether the noiſome ſwarmes of Lawyers, with their dependencies, be not a
+<pb n="5" facs="tcp:166436:3"/> ſufficient ſtore for <hi>France, Spaine, Holland, Po<g ref="char:EOLhyphen"/>land, Swedland, Denmark, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> except the people are made of envy, hypocriſie, and deceit, as in <hi>England,</hi> judge ye.</p>
+            <p n="16">16. Whether there is not to be had as much juſtice and equity in the court of <hi>Pluto,</hi> as the truly-honeſt have had, and daily have in the Courts of Law in <hi>England,</hi> judge ye.</p>
+            <p n="17">17 Whether the tenth of the rich mans land, or the labour of the poor man, his Servants, Cattel and Seed, be Tythed, judge ye.</p>
+            <p n="18">18 Whether the old Law ever required any to pay Tithes of that which yielded not more then was ſown, or of any thing that gave no increaſe; much leſs, according to that Law, was it ever required of any that reap not what they ſowe, judge ye.</p>
+            <p n="19">19 Whether the progative power of any King, or Act of Parliament, can make that
+<pb n="6" facs="tcp:166436:4"/> lawful, which in it ſelf is unlawful, both by the Law of God and nature, judge ye.</p>
+            <p n="20">20 Whether any thing may be ſaid to be in its power, whenas that which firſt gave the ſame its being, is taken away, judge ye.</p>
+            <p n="21">21 Whether were we furtheſt from Refor<g ref="char:EOLhyphen"/>mation during the time the Biſhops ſent their Spannel-like Purſevants to hunt for Tithes, or now the Parliament hath taken that power off, tranſmitting it unto a Com<g ref="char:EOLhyphen"/>mittee, termed a Committee of Plundred Miniſters, who, with their bloodhound-like Meſſengers, hunt not only for Tithes, but for (the very lives of ſome men, in taking a<g ref="char:EOLhyphen"/>way their livelihood, by their covetous, ido<g ref="char:EOLhyphen"/>latrous, oppreſſive practice, enforcing them to pay) treble dammages, which whether it be not ſore oppreſſion and Extortion, judge ye.</p>
+            <p n="22">22 Whether the Law or Magiſtrate ever acted for Jeſus Chriſt, though profeſſing of him, but to the contrary, perſecuted him in
+<pb n="7" facs="tcp:166436:4"/> his ſervants: as witneſs the ſhedding the blood of <hi>Barrow, Greenway, Penry,</hi> and impriſoning <hi>Turner, Grafton, Brewer, Fen<g ref="char:EOLhyphen"/>ner, Stepwel, Tindar, Burdet, Smith, Harvey, How, Lockier,</hi> and hundreds more, for witneſſing a good conſcience; and as at this preſent day, <hi>Marden</hi> and <hi>Pierce,</hi> judge ye.</p>
+            <p n="23">23 Whether the Miniſters of Jeſus Chriſt, or poor of that Church, ever ſup<g ref="char:EOLhyphen"/>plicated or ſued unto the Nations Authority for maintenance, as the Antichriſtian Mini<g ref="char:EOLhyphen"/>ſters daily do, judge ye.</p>
+            <p n="24">24 Whether Tithes be not as much op<g ref="char:EOLhyphen"/>preſſive unto the truely-conſcientious, be<g ref="char:EOLhyphen"/>ing in the hand of the Impropriator, as in the hand of the Prieſt, judge ye.</p>
+            <p n="25">25 Whether it is not cruelty in the higeſt, to increaſe the rich man by oppreſſing the poor, judge ye.</p>
+            <p>We now cordially intreat you, that as we
+<pb n="8" facs="tcp:166436:5"/> have humbly preſented theſe few Queries, or Memorandums unto you, you would as faithfully judge of the ſame, and as cordial<g ref="char:EOLhyphen"/>ly endeavour (and that with ſpeed) the a<g ref="char:EOLhyphen"/>mendment of all that appeareth to be con<g ref="char:EOLhyphen"/>trary to the good word and will of the Lord; and whatſoever likewiſe ſhall be grievous or burthenſome to the ſubject: in the effectual doing whereof, you ſhall honor the Great God of Heaven and Earth, who will never forget much more to honour you.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
